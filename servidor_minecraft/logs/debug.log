@@ -6902,3 +6902,30 @@ Caused by: com.google.gson.stream.MalformedJsonException: Invalid escape sequenc
 [18:23:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jaronese96> tmr
 [18:23:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jaronese96> tmr
 [18:23:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Ranysito18> BOTT XD
+[18:23:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:23:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ranysito18 was shot by Skeleton
+[18:23:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Ranysito18> PTMR
+[18:24:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jaronese96> gg
+[18:24:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:24:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jaronese96 has made the advancement [Take Aim]
+[18:25:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:25:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jaronese96> encontre a jenny creo
+[18:25:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:26:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Orpu with UUID b51375a5-8aaf-43eb-8f08-c0f36f601c7b owned by null
+[18:26:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 6b99a291-3553-4ebd-b2d9-76c9380308e4 owned by null
+[18:26:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snek with UUID d9fa9f1b-56bd-4422-8741-569076b74f27 owned by null
+[18:26:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kakla with UUID 56d835cf-20e4-43f2-a779-85afbc93cb09 owned by null
+[18:26:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:27:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:28:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:28:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ranysito18 was blown up by Creeper
+[18:28:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:29:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:30:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:31:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:31:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:32:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:32:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ranysito18 has made the advancement [Take Aim]
+[18:32:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jaronese96 was killed by Witch using magic
+[18:33:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:33:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jaronese96 suffocated in a wall
