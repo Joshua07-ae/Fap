@@ -212,6 +212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-17 18:54:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2025-04-17 18:12:27 +0000"
@@ -292,6 +298,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-04-17 19:01:45 +0000",
       "beef": "2025-04-17 18:22:54 +0000",
       "spider_eye": "2025-04-17 18:21:07 +0000",
       "melon": "2025-04-17 18:14:32 +0000",

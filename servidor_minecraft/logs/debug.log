@@ -6986,3 +6986,32 @@ Caused by: com.google.gson.stream.MalformedJsonException: Invalid escape sequenc
 [18:51:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [18:52:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [18:52:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:53:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:54:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:55:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:55:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ranysito18 was blown up by Creeper
+[18:55:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:56:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:57:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:58:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:58:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jaronese96 was blown up by Creeper
+[18:58:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ranysito18 was blown up by Creeper
+[18:58:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:59:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:00:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ranysito18 was slain by Wolf
+[19:00:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:01:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:01:43] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [8, -13] in dimension 0 (overworld) while populating chunk [7, -13], causing cascading worldgen lag.
+[19:01:43] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:01:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:01:56] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [14, -16] in dimension 0 (overworld) while populating chunk [13, -16], causing cascading worldgen lag.
+[19:01:56] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:02:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:02:36] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [22, -18] in dimension 0 (overworld) while populating chunk [21, -18], causing cascading worldgen lag.
+[19:02:36] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:02:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ranysito18 was blown up by Creeper
+[19:02:53] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [23, -15] in dimension 0 (overworld) while populating chunk [23, -16], causing cascading worldgen lag.
+[19:02:53] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:02:56] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [19, -19] in dimension 0 (overworld) while populating chunk [18, -19], causing cascading worldgen lag.
+[19:02:56] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:03:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
