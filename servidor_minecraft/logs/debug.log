@@ -7100,3 +7100,55 @@ Caused by: com.google.gson.stream.MalformedJsonException: Invalid escape sequenc
 [19:31:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [19:32:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [19:33:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:34:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:34:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:35:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:35:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jaronese96 was slain by Enderman
+[19:35:33] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 54be5774-22b3-4f75-8d0a-bb82d537d724 owned by null
+[19:35:33] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nutro with UUID 6f70f52e-2823-4391-b87f-82a242cdfe70 owned by null
+[19:35:33] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID 25488534-d7a2-4a0e-aabb-9102a08d389c owned by null
+[19:35:33] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vekda with UUID 8f11b895-8e2e-442a-8322-6567afb4064d owned by null
+[19:35:33] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nutro with UUID a1a01377-91a3-4e54-adb3-58209f8ccc0d owned by null
+[19:35:33] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID e008fbea-f5e3-4c9f-92ff-da41323c1ab8 owned by null
+[19:35:33] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zogni with UUID 4d32d3cb-6e97-4349-b45c-a398389c6803 owned by null
+[19:35:33] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Orpu with UUID fe9cff79-1bde-4e74-b210-f53171255c19 owned by null
+[19:35:42] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Teg with UUID ac8219d3-3a2b-4cb8-aa60-23e7d766441a owned by null
+[19:35:42] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snok with UUID a6a752ab-4d15-47a9-b975-cba80be09b9b owned by null
+[19:35:42] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snuppu with UUID aa34b2a3-ed31-46d3-afac-f73c9b3ad158 owned by null
+[19:35:42] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tihzi with UUID e5070bf2-0ac5-46a5-a23c-077a295876a0 owned by null
+[19:35:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 54be5774-22b3-4f75-8d0a-bb82d537d724 owned by null
+[19:35:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nutro with UUID 6f70f52e-2823-4391-b87f-82a242cdfe70 owned by null
+[19:35:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID 25488534-d7a2-4a0e-aabb-9102a08d389c owned by null
+[19:35:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vekda with UUID 8f11b895-8e2e-442a-8322-6567afb4064d owned by null
+[19:36:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:37:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:37:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ranysito18 was shot by Skeleton
+[19:37:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:37:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:38:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nev with UUID 77e07e41-141c-4e9b-96af-d1a25687a933 owned by null
+[19:38:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID da25f21a-8f6e-4a5e-ba03-1603b48cb892 owned by null
+[19:38:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Durbi with UUID 31c3c673-efbb-4841-8b2d-0f7317ed7a98 owned by null
+[19:38:25] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 87078c7b-9352-4980-b628-7fc9fb3c75d7 owned by null
+[19:38:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:39:04] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-13, 17] in dimension 0 (overworld) while populating chunk [-13, 16], causing cascading worldgen lag.
+[19:39:04] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:39:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:40:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:40:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ranysito18 was slain by Spider
+[19:40:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:41:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jaronese96 was shot by Skeleton
+[19:41:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID 54be5774-22b3-4f75-8d0a-bb82d537d724 owned by null
+[19:41:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nutro with UUID 6f70f52e-2823-4391-b87f-82a242cdfe70 owned by null
+[19:41:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID 25488534-d7a2-4a0e-aabb-9102a08d389c owned by null
+[19:41:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vekda with UUID 8f11b895-8e2e-442a-8322-6567afb4064d owned by null
+[19:41:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nutro with UUID a1a01377-91a3-4e54-adb3-58209f8ccc0d owned by null
+[19:41:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID e008fbea-f5e3-4c9f-92ff-da41323c1ab8 owned by null
+[19:41:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zogni with UUID 4d32d3cb-6e97-4349-b45c-a398389c6803 owned by null
+[19:41:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Orpu with UUID fe9cff79-1bde-4e74-b210-f53171255c19 owned by null
+[19:41:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:41:38] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nev with UUID 77e07e41-141c-4e9b-96af-d1a25687a933 owned by null
+[19:41:38] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Suk with UUID da25f21a-8f6e-4a5e-ba03-1603b48cb892 owned by null
+[19:41:38] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Durbi with UUID 31c3c673-efbb-4841-8b2d-0f7317ed7a98 owned by null
+[19:41:38] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 87078c7b-9352-4980-b628-7fc9fb3c75d7 owned by null
+[19:42:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:43:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
