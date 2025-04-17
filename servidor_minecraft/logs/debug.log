@@ -7152,3 +7152,37 @@ Caused by: com.google.gson.stream.MalformedJsonException: Invalid escape sequenc
 [19:41:38] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Tigs with UUID 87078c7b-9352-4980-b628-7fc9fb3c75d7 owned by null
 [19:42:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [19:43:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:43:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:44:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:45:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:46:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:46:05] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [30, -29] in dimension 0 (overworld) while populating chunk [30, -30], causing cascading worldgen lag.
+[19:46:05] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:46:08] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [29, -32] in dimension 0 (overworld) while populating chunk [29, -33], causing cascading worldgen lag.
+[19:46:08] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:46:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:47:27] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [34, -17] in dimension 0 (overworld) while populating chunk [33, -17], causing cascading worldgen lag.
+[19:47:27] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:47:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:48:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:48:43] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [18, -26] in dimension 0 (overworld) while populating chunk [18, -27], causing cascading worldgen lag.
+[19:48:43] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[19:48:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snogs with UUID 1c07b058-a3a7-4dd2-ae44-d84c922d7e84 owned by null
+[19:48:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 3d2ce9ea-e384-496e-9d61-be703391cd50 owned by null
+[19:48:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Teg with UUID e4a18c41-eb70-4769-81c4-f1e6481dce39 owned by null
+[19:48:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vekda with UUID ca408c1f-72ab-4e88-8605-6da9260edd9e owned by null
+[19:49:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:49:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nutro with UUID 41aeed18-7a8b-4330-9c1a-93ca9c8727d4 owned by null
+[19:49:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID 04ae7a0c-b768-46ad-97d3-9fbd2e9beff4 owned by null
+[19:49:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID af222110-590e-4a99-a837-1531d9e6b3f1 owned by null
+[19:49:10] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mahlu with UUID 35332874-ad98-4bbc-a0e3-4fa4905ba6be owned by null
+[19:49:39] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snek with UUID d9fa9f1b-56bd-4422-8741-569076b74f27 owned by null
+[19:49:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:49:56] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Orpu with UUID b51375a5-8aaf-43eb-8f08-c0f36f601c7b owned by null
+[19:49:56] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kakla with UUID 56d835cf-20e4-43f2-a779-85afbc93cb09 owned by null
+[19:49:56] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vihli with UUID 6b99a291-3553-4ebd-b2d9-76c9380308e4 owned by null
+[19:50:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:51:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:52:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:52:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:53:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
